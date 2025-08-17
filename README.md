@@ -14,7 +14,8 @@ To explore the Hands-on UI/UX Experiments.
 
 ## Output:
 
-[ui and ux ex 1.pdf](https://github.com/user-attachments/files/21821954/ui.and.ux.ex.1.pdf)
+[ui and ux ex 1.pdf](https://github.com/user-attachments/files/21823596/ui.and.ux.ex.1.pdf)
+
 
 ## Result:
 
